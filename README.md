@@ -8,10 +8,20 @@ Albert Einstein once said, “Insanity is doing the same thing over and over aga
 
 Something should change!
 
-## your turn to find-replace
-With this background, I invite you to find an area that you think is broken from ages but is yet never replaced with anything better. Suggest something that you think can be a good replacement for this broken solution (if you can keep it positive, that would be a plus). 
+## Your turn to find-replace
+With this background, I invite you to find an area that you think is broken from ages but is yet never replaced with anything better. Suggest something that you think can be a good replacement for this broken solution (if you can keep it positive, that would be a plus). For an example, I have add a find-replace suggetion to show the template for adding ideas. You can copy and add another idea below this with your find-replace suggestion. 
 
+## To contribute
+Add a new pull request with your idea or add it as an issue in github and I will add it with your name and email. 
+
+## Your idea
+- [ ] issue
+- [ ] Solution
+- [ ] Your reasoning or any other thing that you like to mention.
 
 ## Prison system
 - [X] Prison system is broken.
-- [ ] come up with a better alternative here...
+- [ ] Instead of court trials, send people to mindfulness centers for a few months. Identify why someone did what they did and how those broken areas can be fixed/healed by redirecting them to places/industries that can let them heal and improve over time. 
+- [ ] Why? If the idea of locking people is that they are dangerous to socieity "now", sending them in prison, is only delaying the inevitable. They will be out one day and they may be worse than when they first entered into the prison. Which is exactly what the above article and data shows. 2/3rd of these people did violent crimes "again" against someone new to land back to prison. We need to try out new ideas and see if we can reverse the numbers and not let first time criminals, become repeat criminals. 
+- [ ] Note: I realise, this solution is easier said then done. Justice and prison system is a complex matter and trying to dumb it down to a one liner solution is foolish. Yet, so is doing the same things over and over again, expecting different results. You are welcome to add your own suggestion by copy-pasting this block and giving it a number say Prison system -idea 2. Maybe over time, there are enough little ideas that when combined together can make a dent in the system for good. But dont get too stuck with this one topic, I am looking forward for more ideas and suggestions in the list below. 
+
